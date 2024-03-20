@@ -46,3 +46,6 @@ Exemplo com outro repositório:
 ![image](https://github.com/DanielCarvalhoS/Aula-Tutorial-Git/assets/162492997/cf53e8fb-1b51-423b-9143-907065f7b067)
 
 11 - E pronto! seu arquivo foi lançado para o repositório. 
+
+
+![image](https://github.com/DanielCarvalhoS/Aula-Tutorial-Git/assets/162492997/c90211e2-c9d8-4fcd-8943-4b10046591f0)
