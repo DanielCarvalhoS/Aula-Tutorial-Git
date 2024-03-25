@@ -1,4 +1,5 @@
-Relatório Da Atualização de Arquivo pelo Github
+Relatório Da Atualização de Arquivo pelo Github 
+Dupla: Bruno Ichikawa e Daniel Carvalho da Silva 
 
 ![image](https://github.com/DanielCarvalhoS/Aula-Tutorial-Git/assets/162492997/6bc1b1c0-c772-471e-b2b3-98dd599a7273)
 
